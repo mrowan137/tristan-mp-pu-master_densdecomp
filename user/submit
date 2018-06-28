@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH -n 28
+#SBATCH -t 01:00:00
+
+module load intel
+module load intel-mpi
+module load hdf5/intel-16.0/intel-mpi/1.8.16
+
+srun ./tristan-mp2d > out
+
