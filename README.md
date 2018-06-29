@@ -7,9 +7,9 @@ Modified version of `TRISTAN-MP` code.  Main features:
 
 A few summary documents are included in `/doc`:
 
-   - Esirkepov_changes.pdf: document to summarize differences between the modified
-   code, and the original (see `/doc/tristan-mp-pu-mastert.zip`)
-   - Esirkepov_current_deposit.pdf: document to summarize several tests of the
+   - Esirkepov_change_v2s.pdf: document to summarize differences between the modified
+   code, and the original (see `/doc/tristan-mp-pu-master.zip`)
+   - Esirkepov_current_deposit_v2.pdf: document to summarize several tests of the
    modified code
 
 
